@@ -31,11 +31,13 @@ Very versatile worker with extensive experience in many diverse areas. Able to a
 ### Adjunct Professor/Part-Time Math Teacher, Higher Education
 #### 08/2010 - 05/2014
 
+Taught Learning Support Math, Developmental Studies, Algebra, and Statistics.
+
 - Jackson State Community College (<http://jscc.edu>)
 - Columbia State Community College (<http://columbiastate.edu>)
 - University of North Alabama (<http://una.edu>)
 - ITT Tech - Madison, Alabama (<http://www2.itt-tech.edu/places/campus/school.cfm?lloc_num=116>)
-- Mars Hill Bible School (<http://mhbs.org>) Taught Learning Support Math, Developmental Studies, Algebra, and Statistics.
+- Mars Hill Bible School (<http://mhbs.org>) 
 
 ### Principal Technology Consultant, Marketing Intelligence Agency, Inc.
 #### 10/2012 - 04/2014
