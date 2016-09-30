@@ -33,16 +33,17 @@ Very versatile worker with extensive experience in many diverse areas. Able to a
 
 Taught Learning Support Math, Developmental Studies, Algebra, and Statistics.
 
-- Jackson State Community College (<http://jscc.edu>)
-- Columbia State Community College (<http://columbiastate.edu>)
-- University of North Alabama (<http://una.edu>)
-- ITT Tech - Madison, Alabama (<http://www2.itt-tech.edu/places/campus/school.cfm?lloc_num=116>)
-- Mars Hill Bible School (<http://mhbs.org>) 
+- [Jackson State Community College](http://jscc.edu)
+- [Columbia State Community College](http://columbiastate.edu)
+- [University of North Alabama](http://una.edu)
+- ITT Tech - Madison, Alabama
+- [Mars Hill Bible School](http://mhbs.org)
 
 ### Principal Technology Consultant, Marketing Intelligence Agency, Inc.
 #### 10/2012 - 04/2014
 
-- Integrating IDX MLS into <http://www.realestate-huntsville.com>
+- Integrating IDX (dsIDXpress) MLS into <http://www.RealEstate-Huntsville.com>
+- Integrating IDX (Broker) MLS into <http://CherokeeRidgeHomes.com>
 - Search Engine Optimization (SEO) specialist
 - Word Press theme mods
 - CSS/LESS/SASS
@@ -91,22 +92,22 @@ Analyzed and Designed an experiment to determine the near-miss distance for the 
 
 ## Education
 
-### University of Alabama in Huntsville (<http://www.uah.edu>) - PhD in Math, Statistics and the Atmospheric Sciences
+### [University of Alabama in Huntsville](http://www.uah.edu) - PhD in Math, Statistics and the Atmospheric Sciences
 #### 01/1987 - 06/19/1993
 
 GPA: 3.67/4.00
 
-### University of Alabama in Huntsville (<http://www.uah.edu>) - MS in Math, Statistics and the Atmospheric Sciences
+### [University of Alabama in Huntsville](http://www.uah.edu) - MS in Math, Statistics and the Atmospheric Sciences
 #### 06/1985 - 12/13/1987
 
 GPA: 3.33/4.00
 
-### University of North Alabama (<http://www.una.edu>) - BS in Math, Physics, Statistics and Computer Science
+### [University of North Alabama](http://www.una.edu) - BS in Math, Physics, Statistics and Computer Science
 #### 08/21/1978 - 05/11/1983
 
 GPA: 1.79/3.00
 
-### Central High School (<http://central.lch.schoolinsites.com/>)
+### [Central High School](http://central.lch.schoolinsites.com/)
 #### 1965 - 06/1978
 
 ## Publications
