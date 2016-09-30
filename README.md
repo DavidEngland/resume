@@ -8,7 +8,7 @@
 - Email:  <DavidEEngland@Outlook.com>
 - Resume:  <http://registry.jsonresume.org/davidengland>
 
-## Profiles
+## Social Profiles
 
 [LinkedIn - davidengland](https://www.linkedin.com/in/davidengland)
 [Facebook - DavidEEngland](https://www.facebook.com/DavidEEngland)
@@ -100,7 +100,6 @@ GPA: 3.67/4.00
 GPA: 3.33/4.00
 
 ### University of North Alabama (<http://www.una.edu>) - BS in Math, Physics, Statistics and Computer Science
-
 #### 08/21/1978 - 05/11/1983
 
 GPA: 1.79/3.00
