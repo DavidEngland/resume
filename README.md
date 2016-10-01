@@ -1,7 +1,13 @@
 # JSONresume to email via Foundation
 
+Firstly, create a new Foundation e-mail project as described below.
+
 Basically take <http://JSONresume.org> resume.json file, drop it into /src/data,
 then, modify the json resume boilerplate with Foundation for emails styling.
+
+Boilerplate theme [![](https://badge.fury.io/js/jsonresume-theme-boilerplate.svg)](https://www.npmjs.org/package/jsonresume-theme-boilerplate)
+
+Add Inky stlying and a few helpers ....
 
 ## Foundation for Emails Template
 
