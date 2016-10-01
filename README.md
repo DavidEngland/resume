@@ -9,6 +9,8 @@ then, modify the json resume boilerplate with Foundation for emails styling.
 
 Boilerplate theme [![](https://badge.fury.io/js/jsonresume-theme-boilerplate.svg)](https://www.npmjs.org/package/jsonresume-theme-boilerplate)
 
+Template goes into /src/pages/index.html.  
+
 Add Inky stlying and a few helpers ....
 
 ## Foundation for Emails Template
