@@ -1,5 +1,7 @@
 # JSONresume to email via Foundation
 
+The **Goal** is to have a resume/CV that you can e-mail that retains the look and field across all clients.
+
 Firstly, create a new Foundation e-mail project as described below.
 
 Basically take <http://JSONresume.org> resume.json file, drop it into /src/data,
