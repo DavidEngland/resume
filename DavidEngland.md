@@ -1,12 +1,12 @@
 # David England
 
-![Profile Picture](https://media.licdn.com/mpr/mprx/0_OPQTE-z_17C7p9jkKnBYElFi1Hc7yvukpNtOElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59JoZRAX)
+![Profile Picture](https://media.licdn.com/dms/image/v2/D4E35AQFaKZKfZqp2EA/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1702926251862?e=1756476000&v=beta&t=M3T-lsYYqAU5niQkopEDTG2RtuYdv2TEenIM-pAsZaU)
 
 ## Contact
 
 - Website:  <http://about.me/DavidEngland>
 - Email:  <DavidEEngland@Outlook.com>
-- Resume:  <http://registry.jsonresume.org/davidengland>
+
 
 ## Social Profiles
 
@@ -31,7 +31,7 @@ David England is a skilled and highly adaptable professional with a diverse back
 ## Experience
 
 **Scanner Operator**, Hassell & Hughes Lumber Co.  
-*09/2017 - Present*
+*09/2017 - 04/2025*
 
 **Forklift Operator**, C-Wood Lumber Company  
 *03/2013 - 09/2017*
@@ -132,5 +132,3 @@ GPA: 1.79/3.00
 
 - Native speaker (USA/SEC) in English
 - Limited Working in German
-
-&copy; 2016
